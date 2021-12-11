@@ -83,7 +83,7 @@ window.onload = function(){
 
   document.addEventListener("keydown",keyDown);
 
-  sprImg.src = "../assets/sprite.png";
+  sprImg.src = "assets/sprite.png";
 
 
   plat = ({
